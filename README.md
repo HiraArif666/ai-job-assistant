@@ -3,7 +3,7 @@
 A multi-agent AI system that automates and personalizes the entire job application process — from analyzing a job description to preparing you for the interview.
 
 ## 🚀 Live Demo
-[Click here to try it](https://your-streamlit-link.streamlit.app)
+[Click here to try it](https://ai-job-assistant-595sba75nf4uliushzkedf.streamlit.app/)
 
 ## ✨ Features
 - **4 specialized AI agents** working together in a pipeline
